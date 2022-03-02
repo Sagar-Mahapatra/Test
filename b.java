@@ -7,4 +7,6 @@ class B{
     public void demo(){}
 
     public void demo2(){}
+
+    public void demo4(){}
 }
