@@ -5,4 +5,5 @@ class B{
     }
 
     public void demo(){}
+    public void demo3(){}
 }
