@@ -12,5 +12,8 @@ public static void main(String args) {
 public static void main() {
     System.out.println("added by Dev 1");
 }
+public static void main(Integer i) {
+    System.out.println("added by Dev 4");
+}
      
 }
