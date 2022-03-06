@@ -15,5 +15,8 @@ public static void main() {
 public static void main(Integer i) {
     System.out.println("added by Dev 4");
 }
+public static void main(Long no) {
+    System.out.println("added by TL");
+}
      
 }
