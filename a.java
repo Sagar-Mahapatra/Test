@@ -18,5 +18,7 @@ public static void main(Integer i) {
 public static void main(Long no) {
     System.out.println("added by TL");
 }
-     
+public static void main(Boolean no) {
+    System.out.println("added by Dev-1");
+}    
 }
