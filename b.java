@@ -1,7 +1,7 @@
 class B{
 
     public static void main(String[] args) {
-        
+        new B().demo();
     }
 
     public void demo(){}
